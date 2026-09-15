@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+.env
+.venv/
+venv/
+cowrie.json
+events.json
+analysis.json
